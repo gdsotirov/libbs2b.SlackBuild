@@ -1,0 +1,11 @@
+libbs2b: LibBS2B (Bauer stereophonic-to-binaural DSP library)
+libbs2b:
+libbs2b: The Bauer stereophonic-to-binaural DSP (bs2b) library is designed
+libbs2b: to improve headphone listening of stereo audio records.  Recommended
+libbs2b: for headphone prolonged listening to disable superstereo fatigue
+libbs2b: without essential distortions.
+libbs2b:
+libbs2b:
+libbs2b:
+libbs2b:
+libbs2b: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
